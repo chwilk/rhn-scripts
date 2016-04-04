@@ -5,7 +5,7 @@ import xmlrpclib
 import getpass
 import datetime
 
-SATELLITE_URL = "http://YOUR.SATELLITE.SERVER/rpc/api"
+SATELLITE_URL = "https://YOUR.SATELLITE.SERVER/rpc/api"
 # Uncomment and set values for automated login
 #SATELLITE_LOGIN = "userid"
 #SATELLITE_PASSWORD = "password"
