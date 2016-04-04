@@ -3,7 +3,7 @@
 import xmlrpclib
 import getpass
 
-SATELLITE_URL = "http://YOUR.SATELLITE.SERVER/rpc/api"
+SATELLITE_URL = "https://YOUR.SATELLITE.SERVER/rpc/api"
 SATELLITE_LOGIN = "username"
 SATELLITE_PASSWORD = "password"
 
