@@ -7,7 +7,7 @@ import getpass
 import datetime
 
 # Replace with your satellite here
-SATELLITE_URL = "http://YOUR.SATELLITE.SERVER/rpc/api"
+SATELLITE_URL = "https://YOUR.SATELLITE.SERVER/rpc/api"
 #SATELLITE_LOGIN = "userid"
 #SATELLITE_PASSWORD = "password"
 
